@@ -1,0 +1,1 @@
+docker build --rm -t psythyst/psythyst-post-processor:latest .
